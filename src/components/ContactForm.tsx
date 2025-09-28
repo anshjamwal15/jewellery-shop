@@ -87,7 +87,7 @@ const ContactForm = () => {
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Have questions about our jewelry or need assistance? 
-            We'd love to hear from you and help you find the perfect piece.
+            We&apos;d love to hear from you and help you find the perfect piece.
           </p>
         </motion.div>
 
@@ -177,7 +177,7 @@ const ContactForm = () => {
                     Message Sent!
                   </h4>
                   <p className="text-gray-600">
-                    Thank you for reaching out. We'll get back to you soon.
+                    Thank you for reaching out. We&apos;ll get back to you soon.
                   </p>
                 </motion.div>
               ) : (

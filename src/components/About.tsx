@@ -45,8 +45,8 @@ const About = () => {
             Our <span className="font-dancing text-gold-600 italic">Story</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-crimson leading-relaxed">
-            For over two decades, we've been creating exquisite jewelry pieces that celebrate 
-            life's most precious moments. Our passion for craftsmanship and attention to detail 
+            For over two decades, we&apos;ve been creating exquisite jewelry pieces that celebrate 
+            life&apos;s most precious moments. Our passion for craftsmanship and attention to detail 
             has made us a trusted name in luxury jewelry.
           </p>
         </motion.div>
@@ -149,10 +149,10 @@ const About = () => {
               Our <span className="font-dancing text-gold-600 italic">Mission</span>
             </h3>
             <p className="text-lg text-gray-700 leading-relaxed mb-8 font-crimson italic">
-              "We believe that jewelry is more than just an accessory – it's a way to express your 
+              &ldquo;We believe that jewelry is more than just an accessory – it&apos;s a way to express your 
               unique story, celebrate special moments, and create lasting memories. Our mission is to 
               create pieces that not only enhance your beauty but also become treasured heirlooms 
-              passed down through generations."
+              passed down through generations.&rdquo;
             </p>
             <div className="flex items-center justify-center space-x-4">
               <div className="w-16 h-0.5 bg-gold-600" />
