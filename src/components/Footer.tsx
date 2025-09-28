@@ -69,7 +69,7 @@ const Footer = () => {
               </div>
               
               <p className="text-gray-300 mb-8 leading-relaxed font-crimson">
-                Creating exquisite jewelry pieces that celebrate life&apos;s most precious moments. 
+                Creating exquisite jewelry pieces that celebrate life&#39;s most precious moments. 
                 Each piece is handcrafted with passion and attention to detail.
               </p>
 
