@@ -121,14 +121,3 @@ The website is fully responsive and optimized for:
 - Responsive design
 - Multiple contact options
 
-## 📄 License
-
-This project is for demonstration purposes. Feel free to use it as a starting point for your own jewelry website.
-
-## 🤝 Contributing
-
-If you'd like to contribute to this project, please feel free to submit a pull request or open an issue.
-
----
-
-Built with ❤️ using Next.js and TypeScript
