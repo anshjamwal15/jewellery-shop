@@ -1,5 +1,3 @@
-# Luxe Jewelry - Elegant Jewelry Showcase Website
-
 A beautiful, modern jewelry showcase website built with Next.js, TypeScript, and Framer Motion. Features elegant animations, responsive design, and a sophisticated product gallery.
 
 ## ✨ Features
